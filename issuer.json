@@ -1,8 +1,8 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Issuer",
-  "id": "https://YOUR_GITHUB_USERNAME.github.io/certified-silly-developer/issuer.json",
+  "id": "https://iamprincessshine.github.io/badge/issuer.json",
   "name": "princess Badges",
-  "url": "https://YOUR_GITHUB_USERNAME.github.io/certified-silly-developer/",
+  "url": "https://iamprincessshine.github.io/badge/",
   "description": "Personal issuer of playful Open Badges."
 }
