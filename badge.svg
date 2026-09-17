@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Certified Silly Developer</title>
+  <desc id="desc">A dark terminal-style Open Badge from princess Badges.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050b18"/>
+      <stop offset="1" stop-color="#0b2440"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <circle cx="400" cy="400" r="370" fill="url(#bg)" stroke="#1ee7ff" stroke-width="8"/>
+  <circle cx="400" cy="400" r="333" fill="none" stroke="#2e7894" stroke-width="2" stroke-dasharray="8 14"/>
+  <g fill="#70f7ff" font-family="monospace" text-anchor="middle">
+    <text x="400" y="160" font-size="28" letter-spacing="6">PRINCESS BADGES</text>
+    <text x="400" y="220" font-size="22" fill="#a6ff8f">[ ACHIEVEMENT UNLOCKED ]</text>
+  </g>
+  <g filter="url(#glow)" fill="none" stroke="#70f7ff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M285 315l-70 85 70 85"/>
+    <path d="M515 315l70 85-70 85"/>
+    <path d="M455 285L345 515" stroke="#a6ff8f"/>
+  </g>
+  <g font-family="monospace" text-anchor="middle">
+    <text x="400" y="595" font-size="43" font-weight="700" fill="#ffffff">CERTIFIED</text>
+    <text x="400" y="645" font-size="39" font-weight="700" fill="#70f7ff">SILLY DEVELOPER</text>
+    <text x="400" y="700" font-size="18" fill="#a6ff8f">SURVIVED ANGULARJS</text>
+  </g>
+  <text x="400" y="752" text-anchor="middle" font-family="monospace" font-size="14" fill="#6ca4b6">status: completed // 2026</text>
+</svg>

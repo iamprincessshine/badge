@@ -1,0 +1,11 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://YOUR_GITHUB_USERNAME.github.io/certified-silly-developer/badgeclass.json",
+  "name": "Certified Silly Developer",
+  "description": "Survived AngularJS.",
+  "image": "https://YOUR_GITHUB_USERNAME.github.io/certified-silly-developer/badge.png",
+  "criteria": "https://YOUR_GITHUB_USERNAME.github.io/certified-silly-developer/criteria.html",
+  "issuer": "https://YOUR_GITHUB_USERNAME.github.io/certified-silly-developer/issuer.json",
+  "tags": ["development", "AngularJS", "terminal", "survival"]
+}
