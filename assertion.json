@@ -1,13 +1,13 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
-  "id": "https://YOUR_GITHUB_USERNAME.github.io/certified-silly-developer/assertion.json",
+  "id": "https://iamprincessshine.github.io/badge/assertion.json",
   "recipient": {
     "type": "email",
     "identity": "sha256$619b5c733a2fa4e7d4a7943b9520598774df763d3cb618a3f97faa492959b476",
     "hashed": true
   },
-  "badge": "https://YOUR_GITHUB_USERNAME.github.io/certified-silly-developer/badgeclass.json",
+  "badge": "https://iamprincessshine.github.io/badge/badgeclass.json",
   "issuedOn": "2026-09-17T00:00:00Z",
   "verification": {
     "type": "HostedBadge"
