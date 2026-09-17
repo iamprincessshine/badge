@@ -1,11 +1,11 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "BadgeClass",
-  "id": "https://YOUR_GITHUB_USERNAME.github.io/certified-silly-developer/badgeclass.json",
+  "id": "https://iamprincessshine.github.io/badge/badgeclass.json",
   "name": "Certified Silly Developer",
   "description": "Survived AngularJS.",
-  "image": "https://YOUR_GITHUB_USERNAME.github.io/certified-silly-developer/badge.png",
-  "criteria": "https://YOUR_GITHUB_USERNAME.github.io/certified-silly-developer/criteria.html",
-  "issuer": "https://YOUR_GITHUB_USERNAME.github.io/certified-silly-developer/issuer.json",
+  "image": "https://iamprincessshine.github.io/badge/badge.png",
+  "criteria": "https://iamprincessshine.github.io/badge/criteria.html",
+  "issuer": "https://iamprincessshine.github.io/badge/issuer.json",
   "tags": ["development", "AngularJS", "terminal", "survival"]
 }
